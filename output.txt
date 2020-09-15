@@ -1,2 +1,6 @@
-name aric  email follo twitter id
+
+name aric  email follow twitter id
+
 python widely used general purpose  high level programming language 
+serial number 
+said  beautifull song           
