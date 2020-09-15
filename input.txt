@@ -1,0 +1,4 @@
+বাংলাদেশের সাংবিধানিক নাম গণপ্রজাতন্ত্রী বাংলাদেশ
+My Name is Aric. My email is aric@abcd.com. Follow my twitter id @aricabcd
+https://github.com/Taharat22/Simple-Text-Processing-Tool-Using-Python-Libraries
+Python is a widely used general purpose, high level programming language.
